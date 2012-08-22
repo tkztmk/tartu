@@ -1,7 +1,8 @@
+# COPYING 
+
 This software is licensed under the MIT license. 
 
-The MIT License
---------------------------------------------------------------------------------
+## The MIT License
 
 Copyright (c) 2012 Takezoe Tomoaki <tkztmk@outlook.com>
 
